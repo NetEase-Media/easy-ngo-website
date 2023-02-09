@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Easy-Ngo Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/easy-ngo-website/blog</link>
         <description>Easy-Ngo Blog</description>
         <lastBuildDate>Wed, 28 Dec 2022 13:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Easy-Ngo]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2022/welcome</link>
+            <link>https://your-docusaurus-test-site.com/easy-ngo-website/blog/2022/welcome</link>
             <guid>/2022/welcome</guid>
             <pubDate>Wed, 28 Dec 2022 13:14:00 GMT</pubDate>
             <description><![CDATA[摘要：这是Easy-Ngo的第一篇blog, 请大家多多支持。]]></description>
