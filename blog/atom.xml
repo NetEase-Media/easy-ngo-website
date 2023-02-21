@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/easy-ngo-website/blog"/>
     <subtitle>Easy-Ngo Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/easy-ngo-website/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/easy-ngo-website/images/icon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Easy-Ngo]]></title>
         <id>/2022/welcome</id>
